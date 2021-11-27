@@ -41,8 +41,9 @@
 				<i class="bx bxl-whatsapp"></i><a target="_blank" href="https://api.whatsapp.com/send?phone=5511985555385&text=teorquimica">(11) 98555-5385</a>
 			</div>
 			<div class="social-links">				
-				<a target="_blank" href="https://www.facebook.com/" class="facebook"><i class="icofont-facebook"></i></a>
-				<a target="_blank" href="https://www.instagram.com/" class="instagram"><i class="icofont-instagram"></i></a>				
+				<a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="icofont-facebook"></i></a>
+				<a href="https://www.instagram.com/" title="Instagram" target="_blank"><i class="icofont-instagram"></i></a>				
+				<a href="/wp-admin" title="Login"><i class="bx bxs-user"></i></a>
 			</div>
 		</div>
 	</div>

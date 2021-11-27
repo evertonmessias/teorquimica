@@ -27,7 +27,7 @@ function tf_wp_admin_login_logo()
 { ?>
   <style type="text/css">
     #login h1 a {
-      background-image: url('<?php echo get_option('agenda_input_2'); ?>');
+      background-image: url('<?php echo SITEPATH; ?>assets/img/logo.png');
     }
 
     #login .galogin-powered {
