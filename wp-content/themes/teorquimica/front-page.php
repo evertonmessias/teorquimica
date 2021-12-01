@@ -28,6 +28,7 @@
 
       <div class="row">
         <div class="col-lg-6" data-aos="zoom-out" data-aos-delay="100">
+          <br><br>
           <img src="<?php echo SITEPATH; ?>assets/img/about.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
@@ -85,7 +86,7 @@
   <section id="portfolio" class="portfolio section-bg">
     <div class="container" data-aos="fade-up">
       <div class="section-title">
-        <h2>Portfolio</h2>        
+        <h2>Logística</h2>        
       </div>
       <div class="row" data-aos="fade-up" data-aos-delay="100">
         <div class="col-lg-12 d-flex justify-content-center">

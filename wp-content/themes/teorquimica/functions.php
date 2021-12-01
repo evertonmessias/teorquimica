@@ -5,14 +5,14 @@
 //*************URL theme [ get_template_directory_uri() ]
 define('SITEPATH', '/wp-content/themes/teorquimica/');
 
-//Rename menu iten Admin
+/*Rename menu iten Admin
 function wd_admin_menu_rename()
 {
 	global $menu;
 	$menu[5][0] = 'Portfolio';
 }
 add_action('admin_menu', 'wd_admin_menu_rename');
-
+*/
 
 //************* Login_redirect
 function admin_default_page()
