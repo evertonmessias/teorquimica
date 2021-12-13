@@ -7,10 +7,10 @@
 
 	  <div class="col-lg-4 col-md-6 footer-contact">
 		<h3>Teorquimica<span>.</span></h3>
-		<p>
-		Rua Pedro Noel, 32<br>Brooklin - S.P.<br>
-		  <strong>Fone:</strong> (11) 55360266, 55423261<br>
-		  <strong>Mail:</strong> jap@teorquimica.com.br<br>
+		<p>Rua Piza e Almeida, 305<br>
+        Cep.: 13250-170, Itatiba - S.P.<br>
+		  <strong>Fone:</strong> <a target="_blank" href="https://api.whatsapp.com/send?phone=5511985555385&text=Teorquimica">(11) 98555-5385</a><br>
+		  <strong>Mail:</strong> <a href="mailto:jap@teorquimica.com.br">jap@teorquimica.com.br</a><br>
 		</p>
 	  </div>
 

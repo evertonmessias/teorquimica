@@ -147,7 +147,7 @@
           <div class="info-box mb-4">
             <i class="bx bx-map"></i>
             <h3>Endereço</h3>
-            <p>Rua Pedro Noel, 32 - Brooklin - S.P.</p>
+            <p>Rua Piza e Almeida - 305, Itatiba</p>
           </div>
         </div>
 
@@ -155,7 +155,7 @@
           <div class="info-box  mb-4">
             <i class="bx bx-envelope"></i>
             <h3>E-mail</h3>
-            <p>jap@teorquimica.com.br</p>            
+            <p><a href="mailto:jap@teorquimica.com.br">jap@teorquimica.com.br</a></p>            
           </div>
         </div>
 
@@ -163,7 +163,7 @@
           <div class="info-box  mb-4">
             <i class="bx bx-phone-call"></i>
             <h3>Telefone</h3>
-            <p>(11) 55360266, 55423261</p>
+            <p><a target="_blank" href="https://api.whatsapp.com/send?phone=5511985555385&text=Teorquimica">(11) 98555-5385</a></p>
           </div>
         </div>
 
@@ -172,7 +172,7 @@
       <div class="row" data-aos="fade-up" data-aos-delay="100">
 
         <div class="col-lg-6 ">
-          <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.5439857719525!2d-46.694889585021066!3d-23.62068198465348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce50c6d31f49d1%3A0x489b9ba71624e515!2sR.%20Pedro%20Noel%2C%2032%20-%20Jardim%20das%20Acacias%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004703-030!5e0!3m2!1spt-BR!2sbr!4v1637937422657!5m2!1spt-BR!2sbr" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+          <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.4529603683127!2d-46.83985098503247!3d-23.007135184960788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf2a6278d07f35%3A0x41b233081f4d9c23!2sR.%20Piza%20e%20Almeida%2C%20305%20-%20Centro%2C%20Itatiba%20-%20SP%2C%2013250-170!5e0!3m2!1spt-BR!2sbr!4v1639426690193!5m2!1spt-BR!2sbr" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
         </div>
 
         <div class="col-lg-6">
