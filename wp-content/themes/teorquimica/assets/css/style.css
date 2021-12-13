@@ -899,6 +899,7 @@ section {
   transition: all ease-in-out 0.3s;
   background: #fff;
   width: 100%;
+  margin-bottom: 20px;
 }
 
 .services .icon-box .icon {
