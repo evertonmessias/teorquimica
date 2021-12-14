@@ -49,7 +49,7 @@
 	<div id="topbar" class="d-none d-lg-flex align-items-center fixed-top">
 		<div class="container d-flex">
 			<div class="contact-info mr-auto">
-				<i class="icofont-envelope"></i><a target="_blank" href="mailto:jap@teorquimica.com.br">jap@teorquimica.com.br</a>
+				<i class="icofont-envelope"></i><a target="_blank" href="mailto:teorquimica@teorquimica.com.br">teorquimica@teorquimica.com.br</a>
 				<i class="bx bxl-whatsapp"></i><a target="_blank" href="https://api.whatsapp.com/send?phone=5511985555385&text=Teorquimica">(11) 98555-5385</a>
 			</div>
 			<div id="google_translate_element" class="google-translate"></div>

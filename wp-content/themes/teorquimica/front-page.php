@@ -155,7 +155,7 @@
           <div class="info-box  mb-4">
             <i class="bx bx-envelope"></i>
             <h3>E-mail</h3>
-            <p><a href="mailto:jap@teorquimica.com.br">jap@teorquimica.com.br</a></p>            
+            <p><a href="mailto:teorquimica@teorquimica.com.br">teorquimica@teorquimica.com.br</a></p>            
           </div>
         </div>
 
