@@ -54,7 +54,7 @@
 			</div>
 			<div id="google_translate_element" class="google-translate"></div>
 			<div class="social-links">
-				<a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="icofont-facebook"></i></a>
+				<a href="https://www.facebook.com/TeorquimicaComercioERepresentacaoLtda" title="Facebook" target="_blank"><i class="icofont-facebook"></i></a>
 				<a href="/wp-admin" title="Login"><i class="bx bxs-user"></i></a>
 			</div>
 		</div>

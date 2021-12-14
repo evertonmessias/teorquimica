@@ -28,8 +28,7 @@
 	  <div class="col-lg-4 col-md-6 footer-links">
 		<h4>Social</h4>		
 		<div class="social-links mt-3">		 
-		  <a target="_blank" href="https://www.facebook.com" class="facebook"><i class="bx bxl-facebook"></i></a>
-		  <a target="_blank" href="https://www.instagram.com" class="instagram"><i class="bx bxl-instagram"></i></a>		  
+		  <a target="_blank" href="https://www.facebook.com/TeorquimicaComercioERepresentacaoLtda" class="facebook"><i class="bx bxl-facebook"></i></a>
 		</div>
 	  </div>
 
