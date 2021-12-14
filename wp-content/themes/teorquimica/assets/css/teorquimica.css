@@ -1,12 +1,30 @@
 .logo img{
     transform: scale(1.3);
 }
+
+.google-translate{
+    display: block;
+    position: relative;
+    margin-top: 3px; 
+}
+.google-translate select{
+    position: absolute;
+    height: 20px;
+    top: -5px;
+    border: 0;
+    background-color: #412F23;
+    color: #f9f9f9;
+}
+.google-translate select:hover{
+    background-color: #723a15;
+}
+
 .erro404{
     display: block;
     position: relative;
     text-align: center;
     margin-top: 200px;
-    background-color: #f00;
+    background-color: #412F23;
     color: #fff;
     padding: 20px;
 }

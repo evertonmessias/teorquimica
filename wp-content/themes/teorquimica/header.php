@@ -28,6 +28,18 @@
 	<link href="<?php echo SITEPATH; ?>assets/css/style.css" rel="stylesheet">
 	<link href="<?php echo SITEPATH; ?>assets/css/teorquimica.css" rel="stylesheet">
 
+	<!-- Google Translate -->
+	<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+	<script type="text/javascript">
+		function googleTranslateElementInit() {
+			new google.translate.TranslateElement({
+					pageLanguage: 'pt'
+				},
+				'google_translate_element');
+		}
+	</script>
+
 	<?php wp_head(); ?>
 </head>
 
@@ -40,9 +52,9 @@
 				<i class="icofont-envelope"></i><a target="_blank" href="mailto:jap@teorquimica.com.br">jap@teorquimica.com.br</a>
 				<i class="bx bxl-whatsapp"></i><a target="_blank" href="https://api.whatsapp.com/send?phone=5511985555385&text=Teorquimica">(11) 98555-5385</a>
 			</div>
-			<div class="social-links">				
+			<div id="google_translate_element" class="google-translate"></div>
+			<div class="social-links">
 				<a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="icofont-facebook"></i></a>
-				<a href="https://www.instagram.com/" title="Instagram" target="_blank"><i class="icofont-instagram"></i></a>				
 				<a href="/wp-admin" title="Login"><i class="bx bxs-user"></i></a>
 			</div>
 		</div>
@@ -52,14 +64,16 @@
 	<header id="header" class="fixed-top">
 		<div class="container d-flex align-items-center">
 
-			<a href="/" class="logo mr-auto"><h2><img src="<?php echo SITEPATH; ?>assets/img/logo.png" alt="">&ensp;<i><?php bloginfo() ?></i></h2></a>			
+			<a href="/" class="logo mr-auto">
+				<h2><img src="<?php echo SITEPATH; ?>assets/img/logo.png" alt="">&ensp;<i><?php bloginfo() ?></i></h2>
+			</a>
 
 			<nav class="nav-menu d-none d-lg-block">
 				<ul>
 					<li><a href="/">Início</a></li>
 					<li><a href="/#about">Sobre</a></li>
 					<li><a href="/#services">Serviços</a></li>
-					<li><a href="/#portfolio">Portfólio</a></li>								
+					<li><a href="/#portfolio">Portfólio</a></li>
 					<li><a href="/#contact">Contato</a></li>
 
 				</ul>
