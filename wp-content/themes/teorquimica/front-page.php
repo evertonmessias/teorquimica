@@ -163,7 +163,7 @@
           <div class="info-box  mb-4">
             <i class="bx bx-phone-call"></i>
             <h3>Telefone</h3>
-            <p><a target="_blank" href="https://api.whatsapp.com/send?phone=5511985555385&text=Teorquimica">(11) 98555-5385</a></p>
+            <p><a target="_blank" href="https://api.whatsapp.com/send?phone=5511985555385&text=Teorquimica">+55 11 98555-5385</a></p>
           </div>
         </div>
 
